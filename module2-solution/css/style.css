@@ -6,8 +6,8 @@
 h1
 {
 	font-family: Arial, Helvetica, sans-serif;
-	color: #000000;
-	text-align: center;
+	color: #16D774;
+	text-align: left;
 }
 
 body
@@ -18,7 +18,7 @@ body
 p
 {
 	padding: 10px;
-	margin:0;
+	margin:2;
 }
 
 .container
@@ -46,7 +46,7 @@ section {
 .cardhead {
 	border: 1px solid black;
 	text-align: center;
-	width: 30%;
+	width: 50%;
 	margin-left: 70%;
 	font-family: Georgia,sans-serif;
 	font-weight: bold;
@@ -54,7 +54,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #FFFF00;
+	background-color: #09CF9C;
 }
 
 #burger
@@ -65,7 +65,7 @@ section {
 #pizza
 {
 	background-color: #3B3B98;
-	color: white;
+	color: black;
 }
 
 #drinks
